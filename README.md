@@ -1,5 +1,6 @@
 # My-OOP-endterm-project
 Link for .zip file: https://github.com/Bauyrzhanova/My-OOP-endterm-project/blob/2af5756d668fd5732a986c6eca8b807ee2d6d64d/ENDTERM.zip
+
 First of all, an abstract User class was created, which we will inherit.
 Then an Admin class was created which manages all of them and extends our User class.
 Next, the IAdmin interface was created, which describes all the methods that will be used in the most basic code.
